@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
   </a>
   <a href="#tabla-de-contenido">
-    <img src="https://img.shields.io/badge/Cursos-31-brightgreen.svg?style=flat-square" alt="Cursos 32">
+    <img src="https://img.shields.io/badge/editor.md.svg?style=flat-square" alt="Cursos 32">
   </a>
   <a href="https://github.com/gilberet/CursosPlatzi/stargazers">
     <img src="https://img.shields.io/github/stars/gilberet/CursosPlatzi.svg?style=flat-square&label=Stars" alt="CursosPlatzi stars">
