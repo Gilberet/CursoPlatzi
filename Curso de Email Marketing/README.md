@@ -1,5 +1,6 @@
 # Curso de Email Marketing<!-- omit in toc -->
 
+
 ## Tabla de Contenido<!-- omit in toc -->
 - [¿Qué es el email marketing?](#qué-es-el-email-marketing)
 - [¿Por qué hacer email marketing?](#por-qué-hacer-email-marketing)
@@ -82,6 +83,13 @@ Todo esto frente a las cuales se encuentra una marca, un producto o un servicio.
   <img src="img/foda-restaurante.png">
   <small><p>Ejemplo: Foda Restaurante</p></small>
 </div>
+
+
+**CAME** son las siglas de Corregir, Afrontar, Mantener y Explotar; las cuales son las acciones básicas que puedes aplicar a cada uno de los factores que hayas identificado en tu matriz FODA. Es decir:
+* Corregir las debilidades propias de tu negocio, como factores interno.
+* Afrontar las amenazas externas que presenta el mercado para tu negocio.
+* Mantener las fortalezas intrínsecas de tu negocio.
+* Explotar las oportunidades que te brinde el mercado.
 
 <div align="right">
   <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
